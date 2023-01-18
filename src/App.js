@@ -11,7 +11,10 @@ function ListaTareas() {
     <div>
       <h2>Things I need to do:</h2>
       <ul>
-        <li>hello</li>
+        <li>Learn React</li>
+        <li>Climb Mt. Everest</li>
+        <li>Run a marathon</li>
+        <li>Feed the dogs</li>
       </ul>
     </div>
   );
